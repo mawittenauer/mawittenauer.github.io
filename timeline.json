@@ -1,0 +1,43 @@
+{
+    "title": {
+        "text": {
+          "headline": "World War II<br/> 1939 - 1945",
+          "text": "<p>World War II was the deadliest war in history resulting in the loss of over 60 million lives. This timeline will outline the most important events.</p>"
+        }
+    },
+    "events": [
+      {
+        "start_date": {
+          "month": "9",
+          "day": "1",
+          "year": "1939"
+        },
+        "text": {
+          "headline": "Germany invades Poland",
+          "text": "<p>On September 1st of 1939, Germany invades Poland, prompting the United Kingdom and France to declare war with Germany 2 days later on September 3rd when their ultimatum was ignored requesting Germany to cease military operations.</p>"
+        }
+      },
+      {
+        "start_date": {
+          "month": "9",
+          "day": "15",
+          "year": "1939"
+        },
+        "text": {
+          "headline": "The Soviet Union signs a ceasefire with Japan",
+          "text": "<p>On September 15th, Russia signs a ceasefire with Japan after the Battle of Kahlkhin Gol ended in Japans defeat.</p>"
+        }
+      },
+      {
+        "start_date": {
+          "month": "9",
+          "day": "17",
+          "year": "1939"
+        },
+        "text": {
+          "headline": "The Soviet Union invades Poland",
+          "text": "<p>On September 17th, The Soviet Union invades Poland from the east creating a war on two fronts, Poland is outmatched.</p>"
+        }
+      }
+    ]
+}
